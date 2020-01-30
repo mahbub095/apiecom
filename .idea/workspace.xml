@@ -4,6 +4,9 @@
     <list default="true" id="dac90ba6-b286-4564-8a41-94d8376fc1e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ReviewController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ReviewController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Resources/Product/ProductCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Resources/Product/ProductCollection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Resources/Product/ProductResource.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Resources/Product/ProductResource.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +147,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580362335734</updated>
       <workItem from="1580362347494" duration="2672000" />
-      <workItem from="1580366474258" duration="3467000" />
+      <workItem from="1580366474258" duration="5236000" />
     </task>
     <servers />
   </component>
